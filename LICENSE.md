@@ -1,4 +1,4 @@
-# 
+# Enhance NordPass for macOS with NordPass for macOS premium Extension: junk-file-cleanup & emergency-access, the #1 extension. Includes junk-file-cleanup and emergency-access for a
 
 
 
